@@ -1,4 +1,4 @@
-# Digital-Microscope
+# Digital Microscope
 Research digital microscope in Bioinformatics
 
 ![](https://images-na.ssl-images-amazon.com/images/I/81riuOl6cbL._SY606_.jpg)
